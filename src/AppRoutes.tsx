@@ -4,7 +4,7 @@ import HomePage from "./pages/HomePage";
 import AuthCallbackPage from "./pages/AuthCallbackPage";
 import UserprofilePage from "./pages/UserProfilePage";
 import ProtectedRoute from "./auth/ProtectedRoute";
-import ManageRestaurantPage from "./pages/manageRestaurantPage";
+import ManageRestaurantPage from "./pages/ManageRestaurantPage";
 
 const AppRoutes = () => {
   return (
